@@ -1,3 +1,3 @@
 Hey this a sample file.
 To test git commands
-[A[FH[B[C[C[C[C[C[C[C[C[F[B[F[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.
+[A[FH[B[C[C[C[C[C[C[C[C[F[B[F[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.change to file to work on commit command.
